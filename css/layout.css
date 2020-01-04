@@ -1,0 +1,35 @@
+nav{
+    background-image: url("../images/th.jpg");
+}
+
+.row_1{
+    /* 实现省略号 */
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    /* 设置显示的行数 */
+    -webkit-line-clamp:1;
+    overflow: hidden;
+}
+
+
+.row_4{
+    /* 实现省略号 */
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    /* 设置显示的行数 */
+    -webkit-line-clamp:4;
+    overflow: hidden;
+}
+
+.row_5{
+    /* 实现省略号 */
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    /* 设置显示的行数 */
+    -webkit-line-clamp:5;
+    overflow: hidden;
+}
+
+#search_input{
+    width: 180px;
+}
