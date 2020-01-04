@@ -1,1 +1,5 @@
-Web related knowledge
+使用bootstrap3框架，解压压缩包bootstrap-3.3.7-start.zip，里面有两个目录：bootstrap3,template,
+将这两个目录放在项目下，在template下有一个starter.html，自己创建的html复制其内容用此为模板进行编辑。
+
+
+本项目示例bootstarp3的使用，在bolg目录下有一个index1.html
